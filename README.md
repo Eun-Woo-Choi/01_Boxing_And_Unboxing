@@ -1,6 +1,3 @@
-# C# - Boxing_And_Unboxing
-About boxing and unboxing of C#
-
 # C# : About Boxing and Unboxing
 
 ### To understand _**boxing**_ and _**unboxing**_, let's first look at two types of memory storage.
