@@ -33,6 +33,7 @@ And these are stored in two separate spaces.
 ### < For example : **Boxing** >
 
 `ArrayList _arrayList = new ArrayList();`
+<br>
 `_arrayList.Add(100);`
 
 ![image](https://user-images.githubusercontent.com/80008824/116013087-ed067400-a636-11eb-9132-d42bd5cb481f.png)
