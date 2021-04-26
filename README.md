@@ -5,10 +5,10 @@
 There are two types of memory storage.
 
 - **Value Type** : A data type in which the variable holds values.
-                      (Integer type, real type, character type, boolean type)
+<br>(Integer type, real type, character type, boolean type)
 
 - **Reference Type** : A data type that holds the location (reference) where the variable has a value instead of a value.
-                                   (Array,  ArrayList, HashTable etc.)
+<br>(Array,  ArrayList, HashTable etc.)
 <br>
 
 And these are stored in two separate spaces.
